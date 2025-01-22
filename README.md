@@ -5,3 +5,7 @@
 </h2>
 
 ---
+
+- **Frontend**: React, TypeScript, Redux, Next.js
+- **Styling**: CSS Modules, Styled Components, TailwindCSS
+- **Tools**: Webpack, Vite, ESLint, Prettier
